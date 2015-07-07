@@ -4,12 +4,13 @@
 // Purpose: Definition of Class ManagerCompteRendu
 
 using System;
+using Bo;
 
 namespace Creation_compte_rendu
 {
    public class ManagerCompteRendu
    {
-      public void CreerCompteRendu(int idCompteRendu, Bo.Client client, DateTime date, DateTime duree, System.Array piecesUtilisees, string commentaire)
+      public void CreerCompteRendu(int idCompteRendu, Client client, DateTime date, DateTime duree, System.Array piecesUtilisees, string commentaire)
       {
          throw new NotImplementedException();
       }

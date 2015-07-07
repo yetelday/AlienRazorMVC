@@ -4,12 +4,13 @@
 // Purpose: Definition of Class GestionnaireInterventions
 
 using System;
+using Bo;
 
 namespace Creation_compte_rendu
 {
    public class GestionnaireInterventions
    {
-      public Bo.FicheDepannage GetInterById(int idInter)
+      public FicheDepannage GetInterById(int idInter)
       {
          throw new NotImplementedException();
       }

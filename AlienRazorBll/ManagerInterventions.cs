@@ -4,6 +4,7 @@
 // Purpose: Definition of Class ManagerInterventions
 
 using System;
+using Bo;
 
 namespace Creation_compte_rendu
 {
@@ -14,7 +15,7 @@ namespace Creation_compte_rendu
          throw new NotImplementedException();
       }
       
-      public Bo.FicheDepannage GetInterById(int idInter)
+      public FicheDepannage GetInterById(int idInter)
       {
          throw new NotImplementedException();
       }

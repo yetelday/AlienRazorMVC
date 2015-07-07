@@ -10,7 +10,7 @@ namespace Bo
    public class CompteRenduDepannage
    {
       private int tempsIntervention;
-      private date dateIntervention;
+      private DateTime dateIntervention;
    
    }
 }

@@ -10,7 +10,7 @@ namespace Bo
    public class TarifDeMaintenance
    {
       private int codeTarif;
-      private date dateTarif;
+      private DateTime dateTarif;
       private decimal tarifEquipemet;
    
    }

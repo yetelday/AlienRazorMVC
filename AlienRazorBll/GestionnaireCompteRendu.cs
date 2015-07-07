@@ -4,12 +4,13 @@
 // Purpose: Definition of Class GestionnaireCompteRendu
 
 using System;
+using Bo;
 
 namespace Creation_compte_rendu
 {
    public class GestionnaireCompteRendu
    {
-      public Bo.FicheDepannage GetInterById(int idInter)
+      public FicheDepannage GetInterById(int idInter)
       {
          throw new NotImplementedException();
       }

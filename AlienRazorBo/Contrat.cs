@@ -10,7 +10,7 @@ namespace Bo
    public class Contrat
    {
       private int idContrat;
-      private date datePriseEffet;
+      private DateTime datePriseEffet;
       private DateTime dateRelance;
       private DateTime dateResiliation;
       

@@ -10,8 +10,8 @@ namespace Bo
    public class FicheDepannage
    {
       private int numEnregistrement;
-      private date dateAppel;
-      private date heureAppel;
+      private DateTime dateAppel;
+      private DateTime heureAppel;
    
    }
 }

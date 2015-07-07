@@ -10,7 +10,7 @@ namespace Bo
    public class Facture
    {
       private int idFacture;
-      private date date;
+      private DateTime date;
       private decimal montantTtc;
       private decimal dontTVA;
    

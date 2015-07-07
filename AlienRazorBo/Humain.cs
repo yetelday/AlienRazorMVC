@@ -11,7 +11,7 @@ namespace Bo
    {
       private Char nom;
       private char prenom;
-      private date ddn;
+      private DateTime ddn;
    
    }
 }
